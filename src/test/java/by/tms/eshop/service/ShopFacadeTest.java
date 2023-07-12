@@ -15,7 +15,7 @@ import static by.tms.eshop.utils.Constants.TRUE;
 
 import by.tms.eshop.dto.CartDto;
 import by.tms.eshop.dto.ProductDto;
-import by.tms.eshop.model.Location;
+import by.tms.eshop.domain.Location;
 import java.math.BigDecimal;
 import java.util.List;
 import org.junit.jupiter.api.Assertions;

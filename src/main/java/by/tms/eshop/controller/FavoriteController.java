@@ -9,7 +9,7 @@ import static by.tms.eshop.utils.Constants.RequestParameters.LOCATION;
 import static by.tms.eshop.utils.ControllerUtils.getAuthenticationUserId;
 
 import by.tms.eshop.dto.ProductDto;
-import by.tms.eshop.model.Location;
+import by.tms.eshop.domain.Location;
 import by.tms.eshop.service.CartService;
 import by.tms.eshop.service.ShopFacade;
 import java.util.List;

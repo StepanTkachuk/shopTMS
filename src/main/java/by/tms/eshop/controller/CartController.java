@@ -12,7 +12,7 @@ import static by.tms.eshop.utils.ControllerUtils.getAuthenticationUserId;
 import static by.tms.eshop.utils.ControllerUtils.getProductsPrice;
 
 import by.tms.eshop.dto.CartDto;
-import by.tms.eshop.model.Location;
+import by.tms.eshop.domain.Location;
 import by.tms.eshop.service.CartService;
 import by.tms.eshop.service.ShopFacade;
 import java.util.List;

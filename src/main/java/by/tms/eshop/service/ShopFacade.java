@@ -35,7 +35,7 @@ import by.tms.eshop.dto.ProductDto;
 import by.tms.eshop.dto.RoleDto;
 import by.tms.eshop.dto.UserFormDto;
 import by.tms.eshop.mapper.UserMapper;
-import by.tms.eshop.model.Location;
+import by.tms.eshop.domain.Location;
 import java.math.BigDecimal;
 import java.util.HashMap;
 import java.util.List;

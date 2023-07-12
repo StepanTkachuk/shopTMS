@@ -2,7 +2,7 @@ package by.tms.eshop.service;
 
 import by.tms.eshop.dto.CartDto;
 import by.tms.eshop.dto.ProductDto;
-import by.tms.eshop.model.Location;
+import by.tms.eshop.domain.Location;
 import java.util.List;
 import java.util.Map;
 

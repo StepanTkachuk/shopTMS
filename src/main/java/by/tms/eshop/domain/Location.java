@@ -1,4 +1,4 @@
-package by.tms.eshop.model;
+package by.tms.eshop.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

@@ -6,7 +6,7 @@ import by.tms.eshop.domain.User;
 import by.tms.eshop.dto.CartDto;
 import by.tms.eshop.dto.ProductDto;
 import by.tms.eshop.mapper.CartMapper;
-import by.tms.eshop.model.Location;
+import by.tms.eshop.domain.Location;
 import by.tms.eshop.repository.CartRepository;
 import by.tms.eshop.service.CartService;
 import java.util.ArrayList;
